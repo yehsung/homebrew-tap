@@ -1,6 +1,6 @@
 cask "iamceo" do
-  version "0.2.6"
-  sha256 "be414f814186a839d810ea0953435a594de64b8bed48aa92519f1f8df4275875"
+  version "0.2.7"
+  sha256 "1eeb919a1d4d894ba6809712008db4d330b8b002876bb18f8179d6244c7bfe23"
 
   url "https://github.com/yehsung/IAMCEO/releases/download/v#{version}/IAMCEO-#{version}-arm64.dmg"
   name "IAMCEO"
